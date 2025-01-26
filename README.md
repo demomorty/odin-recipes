@@ -3,6 +3,6 @@ This project is part of my practice while following [**the Odin Project**](https
 So far, I’ve gained a basic understanding of Git and started exploring HTML. This project is my first hands-on assignment in the course, focusing specifically on HTML fundamentals. It’s an exciting opportunity to put theory into practice, and I’m looking forward to building on this foundation as I progress through the curriculum.
 
 ---
-### Acknowledgment
 
+### Acknowledgment
 This README was written with assistance from ChatGPT to improve clarity and structure.
